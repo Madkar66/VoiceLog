@@ -39,12 +39,10 @@ streamlit run app.py
 ## Screenshots
 
 ### Home Screen
-
-See Screenshot home.png.png
+![Home Screen](home.png.png)
 
 ### Output Screen
-
-See Screenshot output.png.png
+![Output Screen](output.png.png)
 
 ## License
 
